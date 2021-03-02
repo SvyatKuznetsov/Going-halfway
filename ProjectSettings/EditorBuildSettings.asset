@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Panel1.unity
+    guid: 2e2d61285409af74d9294dbcc1f1a5a7
+  - enabled: 1
+    path: Assets/Scenes/Panel2.unity
+    guid: 5d265d5dd39e7344793589104273babc
+  - enabled: 1
+    path: Assets/Scenes/Panel3.unity
+    guid: c178c17236b5c664c90a24ede88c31ee
+  - enabled: 1
+    path: Assets/Scenes/Panel4.unity
+    guid: 2672a57131cd3dc43913fc1ed069409a
+  - enabled: 1
+    path: Assets/Scenes/Panel5Main.unity
+    guid: c37664bd42886874c93a13f00a402097
+  - enabled: 1
+    path: Assets/Scenes/Panel5Dop.unity
+    guid: dab892e614d090b43aa9f8e79dd901db
+  - enabled: 1
+    path: Assets/GestureRecognizer/Scenes/MultiStroke_Demo_Script.unity
+    guid: 37daa4d8f28b0234db67252d54d69098
+  m_configObjects: {}

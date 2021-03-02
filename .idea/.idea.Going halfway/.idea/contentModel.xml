@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\nesqi\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\nesqi\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Going halfway.-1276118200.00" t="ExcludeRecursive" />
+    <e p="D:\C#\Going halfway\Going halfway" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="GestureRecognizer" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Demo" t="Include">
+              <e p="GestureCapturePoints.cs" t="Include" />
+              <e p="GestureDemoEvent.cs" t="Include" />
+              <e p="MultiStrokeCapturePoints.cs" t="Include" />
+              <e p="MultiStrokeDemoEvent.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="GestureBehaviourInspector.cs" t="Include" />
+              <e p="MultiStrokeBehaviourInspector.cs" t="Include" />
+            </e>
+            <e p="GestureRecognizer" t="Include">
+              <e p="Gesture.cs" t="Include" />
+              <e p="GestureBehaviour.cs" t="Include" />
+              <e p="GestureLibrary.cs" t="Include" />
+            </e>
+            <e p="MultiStrokeRecognizer" t="Include">
+              <e p="MultiStroke.cs" t="Include" />
+              <e p="MultiStrokeBehaviour.cs" t="Include" />
+              <e p="MultiStrokeLibrary.cs" t="Include" />
+              <e p="MultiStrokePoint.cs" t="Include" />
+            </e>
+            <e p="Utility" t="Include">
+              <e p="FileTools.cs" t="Include" />
+              <e p="Result.cs" t="Include" />
+              <e p="Utility.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Images" t="Include">
+          <e p="Panel3" t="Include">
+            <e p="Part2" t="Include">
+              <e p="WordControllerPart2.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Panel4" t="Include">
+            <e p="ControllerPanel4.cs" t="Include" />
+          </e>
+          <e p="Panel5 dop" t="Include">
+            <e p="AppearanceContr.cs" t="Include" />
+            <e p="ControllerPanel5Dop.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Mouse Gesture Interpretation" t="Include">
+          <e p="README.txt" t="Include" />
+          <e p="SceneExemple" t="Include">
+            <e p="Standard Assets" t="Include">
+              <e p="Characters" t="Include">
+                <e p="FirstPersonCharacter" t="Include">
+                  <e p="FirstPersonCharacterGuidelines.txt" t="Include" />
+                  <e p="Scripts" t="Include">
+                    <e p="FirstPersonController.cs" t="Include" />
+                    <e p="HeadBob.cs" t="Include" />
+                    <e p="MouseLook.cs" t="Include" />
+                    <e p="RigidbodyFirstPersonController.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="CrossPlatformInput" t="Include">
+                <e p="CrossPlatformInputGuidelines.txt" t="Include" />
+                <e p="Scripts" t="Include">
+                  <e p="AxisTouchButton.cs" t="Include" />
+                  <e p="ButtonHandler.cs" t="Include" />
+                  <e p="CrossPlatformInputManager.cs" t="Include" />
+                  <e p="InputAxisScrollbar.cs" t="Include" />
+                  <e p="Joystick.cs" t="Include" />
+                  <e p="MobileControlRig.cs" t="Include" />
+                  <e p="PlatformSpecific" t="Include">
+                    <e p="MobileInput.cs" t="Include" />
+                    <e p="StandaloneInput.cs" t="Include" />
+                  </e>
+                  <e p="TiltInput.cs" t="Include" />
+                  <e p="TouchPad.cs" t="Include" />
+                  <e p="VirtualInput.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Utility" t="Include">
+                <e p="ActivateTrigger.cs" t="Include" />
+                <e p="AutoMobileShaderSwitch.cs" t="Include" />
+                <e p="AutoMoveAndRotate.cs" t="Include" />
+                <e p="CameraRefocus.cs" t="Include" />
+                <e p="CurveControlledBob.cs" t="Include" />
+                <e p="DragRigidbody.cs" t="Include" />
+                <e p="DynamicShadowSettings.cs" t="Include" />
+                <e p="EventSystemChecker.cs" t="Include" />
+                <e p="FollowTarget.cs" t="Include" />
+                <e p="ForcedReset.cs" t="Include" />
+                <e p="FOVKick.cs" t="Include" />
+                <e p="FPSCounter.cs" t="Include" />
+                <e p="LerpControlledBob.cs" t="Include" />
+                <e p="ObjectResetter.cs" t="Include" />
+                <e p="ParticleSystemDestroyer.cs" t="Include" />
+                <e p="PlatformSpecificContent.cs" t="Include" />
+                <e p="SimpleActivatorMenu.cs" t="Include" />
+                <e p="SimpleMouseRotator.cs" t="Include" />
+                <e p="SmoothFollow.cs" t="Include" />
+                <e p="TimedObjectActivator.cs" t="Include" />
+                <e p="TimedObjectDestructor.cs" t="Include" />
+                <e p="WaypointCircuit.cs" t="Include" />
+                <e p="WaypointProgressTracker.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="GestureScriptExemple.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Resources" t="Include">
+          <e p="alphabet.xml" t="Include" />
+          <e p="multistroke_shapes.xml" t="Include" />
+          <e p="numbers.xml" t="Include" />
+          <e p="shapes.xml" t="Include" />
+        </e>
+        <e p="Scenes" t="Include">
+          <e p="GestureRecognizerr.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="In game" t="Include">
+            <e p="BgMoverY.cs" t="Include" />
+            <e p="CameraMoverY.cs" t="Include" />
+            <e p="ColliderPhysics.cs" t="Include" />
+            <e p="DragHandler.cs" t="Include" />
+            <e p="MovingHand.cs" t="Include" />
+            <e p="NameMoverY.cs" t="Include" />
+            <e p="Panel3" t="Include">
+              <e p="AppearanceController.cs" t="Include" />
+              <e p="BGMover.cs" t="Include" />
+              <e p="CameraMover.cs" t="Include" />
+            </e>
+            <e p="Panel5Main" t="Include">
+              <e p="ApperanceController.cs" t="Include" />
+              <e p="ControllerPanel5Main.cs" t="Include" />
+            </e>
+            <e p="WordAppearanceController.cs" t="Include" />
+          </e>
+          <e p="Not in game" t="Include">
+            <e p="ButtonAlphaReduction.cs" t="Include" />
+            <e p="ButtonBack.cs" t="Include" />
+            <e p="ButtonsMenu.cs" t="Include" />
+            <e p="MenuManager.cs" t="Include" />
+            <e p="Settings.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Going halfway.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
